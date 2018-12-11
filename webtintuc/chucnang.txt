@@ -1,0 +1,6 @@
+﻿1. chức năng đăng ký
+2. chức năng đăng nhập
+3. menu navigation
+4. chức năng phân trang
+5. chi tiết
+6. tìm kiếm
